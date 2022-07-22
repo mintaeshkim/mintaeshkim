@@ -1,3 +1,7 @@
-## Mark Mintae Kim
+# Mark Mintae Kim
 
-Machine Learning Researcher at ADOS
+## CEO of RIMES LABS
+## Machine Learning Researcher at ADOS
+
+## Research Interests
+Machine Learning, Computer Vision, Deep Generative Models, Topological Data Analysis, Stochastic Differential Equations
