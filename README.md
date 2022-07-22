@@ -7,5 +7,5 @@
 ## Research Interests
 Machine Learning, Computer Vision, **Deep Generative Models**, Topological Data Analysis, Stochastic Differential Equations  
 
-## CV
+## Resume
 Here is my [Resume](./Resume_Mark_Mintae_Kim.pdf)
