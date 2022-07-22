@@ -1,7 +1,7 @@
 # Mark Mintae Kim
 
 ## Current positions
-CEO of RIMES LABS
+CEO of RIMES LABS  
 Machine Learning Researcher at ADOS
 
 ## Research Interests
