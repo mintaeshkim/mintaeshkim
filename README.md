@@ -1,7 +1,7 @@
 # Mark Mintae Kim
 
 ## Current positions
-- **CTO of RIMES LABS**  
+- **Co-Founder and CTO of RIMES LABS**  
 - **Machine Learning Researcher at ADOS**
 
 ## Research Interests
