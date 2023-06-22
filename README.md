@@ -1,6 +1,9 @@
 # Teddy Mintae Kim
 
-## Current positions
+## Current Position
+- **Ph.D. Student at Hybrid Robotics Lab, UC Berkeley**  
+
+## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
 - **Machine Learning Researcher at ADOS**
 
