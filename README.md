@@ -8,4 +8,4 @@
 **Machine Learning**, **Computer Vision**, **Robotics**, **Generative Models**, Scene Representation, Motion Planning, Partial Differential Equations  
 
 ## Resume
-Here is my [Resume](./Resume_Mark_Mintae_Kim.pdf)
+Here is my [Resume](./Resume_Mark_Mintae_Kim.pdf) (Updated Oct. 2022)
