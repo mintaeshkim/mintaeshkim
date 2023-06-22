@@ -1,4 +1,4 @@
-# Mark Mintae Kim
+# Teddy Mintae Kim
 
 ## Current positions
 - **Co-Founder and CTO of RIMES LABS**  
