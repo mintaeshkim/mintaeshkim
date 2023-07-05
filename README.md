@@ -12,3 +12,6 @@
 
 ## Resume
 Here is my [Resume](./Resume_Mark_Mintae_Kim.pdf) (Updated Oct. 2022)
+
+## Website
+Here is my [Website](https://sites.google.com/view/teddykim)
