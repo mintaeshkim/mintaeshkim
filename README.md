@@ -8,7 +8,7 @@
 - **Research Scientist at ADOS Machine Learning Team**
 
 ## High Level Research Interests
-**Machine Learning**, **Robotics**, **Reinforcement Learning**, **Nonlinear Control**, **Computer Vision**, **Generative Models**, **Motion Planning**
+**Machine Learning**, **Robotics**, **Reinforcement Learning**, **Nonlinear Control Systems**, **Computer Vision**, **Generative Models**, **Motion Planning**, **Security**
 
 ## Resume
 Here is my [Resume](./Resume_Mintae_Kim.pdf) (Will be updated soon)
