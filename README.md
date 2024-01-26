@@ -5,7 +5,7 @@
 
 ## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
-- **Research Scientist at ADOS Machine Learning Team**
+- **Leading Research Scientist at ADOS Machine Learning Team**
 
 ## High Level Research Interests
 **Machine Learning**, **Robotics**, **Reinforcement Learning**, **Nonlinear Control Systems**, **Computer Vision**, **Generative Models**, **Motion Planning**, **Security**
