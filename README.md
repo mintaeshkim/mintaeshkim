@@ -11,7 +11,7 @@
 **Machine Learning**, **Robotics**, **Reinforcement Learning**, **Nonlinear Control Systems**, **Computer Vision**, **Generative Models**, **Motion Planning**, **Security**
 
 ## Resume
-Here is my [Resume](./Resume_Mintae_Kim.pdf) (Will be updated soon)
+Here is my [Resume](./Resume_Mintae_Martin_Kim.pdf) (Will be updated soon)
 
 ## Website
 Here is my [Website](https://sites.google.com/view/mintae-kim)
