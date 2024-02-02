@@ -2,7 +2,8 @@
 
 ## Current Position
 - **Ph.D. Student in Mechanical Engineering at Hybrid Robotics Lab, UC Berkeley**
-- I am a Ph.D. Student in Mechanical Engineering at Hybrid Robotics Lab, University of California, Berkeley, being advised by Prof. Koushil Sreenath. Currently I am collaborating with Silicon Synapse Lab at Northeastern University. My minors are Artificial Intelligence and Robotics.
+- Focusing on application of machine learning (especially, RL) and optimization to Robot Intelligence and Dynamical Systems (RIDS).
+- My interest spans multiple areas, including control of dynamical systems, learning-based robust locomotion control and planning, and biomimicry.
 
 ## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
