@@ -2,7 +2,7 @@
 
 ## Current Position
 - **Ph.D. Student in Mechanical Engineering at Hybrid Robotics Lab, UC Berkeley**
-- Focusing on application of machine learning (especially, RL) and optimization to Robot Intelligence and Dynamical Systems (RIDS).
+- Focusing on application of machine learning (mainly RL) and optimization to Robot Intelligence and Dynamical Systems (RIDS).
 - My interest spans multiple areas, including control of dynamical systems, learning-based robust locomotion control and planning, and biomimicry.
 
 ## Previous Positions
