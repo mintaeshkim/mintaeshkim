@@ -1,4 +1,4 @@
-# Mintae Kim
+# Mintæ Kim
 
 ## Current Position
 - **Ph.D. Student in Mechanical Engineering at Hybrid Robotics Lab, UC Berkeley**
