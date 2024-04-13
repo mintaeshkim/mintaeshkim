@@ -7,7 +7,7 @@
 
 ## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
-- **Leading Research Scientist at ADOS Machine Learning Team**
+- **Leading Research Scientist at Samsung Electronics x ADOS Machine Learning Team**
 
 ## High Level Research Interests
 **Machine Learning**, **Robotics**, **Reinforcement Learning**, **Nonlinear Control Systems**, **Computer Vision**, **Generative Models**
