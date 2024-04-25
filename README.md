@@ -1,7 +1,7 @@
 # Mintæ Kim
 
 ## Current Position
-- **Ph.D. Student in Mechanical Engineering at Hybrid Robotics Lab, UC Berkeley**
+- **Ph.D. Student in Robotics at Hybrid Robotics Lab, BAIR, Department of Mechanical Engineering, UC Berkeley**
 - Focusing on application of machine learning (mainly RL) and optimization to Robot Intelligence and Dynamical Systems (RIDS).
 - My interest spans multiple areas, including control of dynamical systems, learning-based robust locomotion control and planning, and biomimicry.
 
