@@ -10,7 +10,7 @@
 - **Leading Research Scientist at Samsung Electronics x ADOS Machine Learning Team**
 
 ## High Level Research Interests
-**Machine Learning**, **Robotics**, **Reinforcement Learning**, **Nonlinear Control Systems**, **Computer Vision**, **Generative Models**
+**Machine Learning**, **Robotics**, **Reinforcement Learning**, **Nonlinear Systems Control**, **Computer Vision**, **Generative Models**
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
