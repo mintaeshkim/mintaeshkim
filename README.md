@@ -2,8 +2,7 @@
 
 ## Current Position
 - **Ph.D. Student in Robotics at Hybrid Robotics Lab, BAIR, Department of Mechanical Engineering, UC Berkeley**
-- Focusing on application of machine learning (mainly RL) and optimization to Robot Intelligence and Dynamical Systems (RIDS).
-- My interest spans multiple areas, including control of dynamical systems, learning-based robust locomotion control and planning, and biomimicry.
+- Working on Robot Learning
 
 ## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
