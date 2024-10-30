@@ -2,7 +2,7 @@
 
 ## Current Position
 - **Ph.D. Student in Robotics at Hybrid Robotics Lab, BAIR, Department of Mechanical Engineering, UC Berkeley**
-- Working on Robot Learning
+- **Working on Robot Learning**
 
 ## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
