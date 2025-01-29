@@ -2,7 +2,7 @@
 
 ## Current Position
 - **Ph.D. Student in Robotics at Hybrid Robotics Lab, BAIR, Department of Mechanical Engineering, UC Berkeley**
-- **Working on Learning-based Stochastic Dynamical Systems Control**
+- **Working on Learning-based Control of Stochastic Dynamical Systems, a.k.a. RL**
 
 ## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
