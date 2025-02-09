@@ -2,14 +2,14 @@
 
 ## Current Position
 - **Ph.D. Student in Robotics at Hybrid Robotics Lab, BAIR, Department of Mechanical Engineering, UC Berkeley**
-- **Working on Learning-based Control of Stochastic Dynamical Systems, a.k.a. RL**
+- **Working on Robot Learning**
 
 ## Previous Positions
 - **Co-Founder and CTO of RIMES LABS**  
 - **Leading Research Scientist at Samsung Electronics x ADOS Machine Learning Team**
 
 ## High Level Research Interests
-**Stochastic Nonlinear Dynamical Systems**, **Robot Learning**, **Reinforcement Learning**
+**Model-based RL**, **Offline RL**, **Online Learning**, **Data-Efficient Learning**
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
