@@ -1,6 +1,6 @@
 # Mintæ Kim
 
-## Current Position
+## Current State
 - **Ph.D. Student in Robotics at Hybrid Robotics Lab, BAIR, Department of Mechanical Engineering, UC Berkeley**
 - **Working on Robot Learning**
 
