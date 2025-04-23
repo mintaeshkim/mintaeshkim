@@ -6,6 +6,7 @@
 
 ## High Level Research Interests
 **Offline RL**, **Continual Learning**, **Online Learning**, **Data-Efficient Learning**, **Model-based RL**
+Learn, Change, Make Decisions, Invent New Ideas By Itself
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
