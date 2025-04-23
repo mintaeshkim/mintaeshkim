@@ -5,7 +5,7 @@
 - **Working on Robot Learning**
 
 ## High Level Research Interests
-**Offline RL**, **Online Learning**, **Data-Efficient Learning**, **Model-based RL**
+**Offline RL**, **Continual Learning**, **Online Learning**, **Data-Efficient Learning**, **Model-based RL**
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
