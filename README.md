@@ -5,7 +5,7 @@
 - **Working on Robot Learning**
 
 ## High Level Research Interests
-**Offline RL**, **Continual Learning**, **Online Learning**, **Data-Efficient Learning**, **Model-based RL**  
+**Offline RL**, **Data-Efficient Learning**, **Continual Learning**, **Online Learning**, **Model-based RL**  
 Agent that can Learn, Change, Make Decisions, Invent New Ideas By Itself  
 
 ## Resume
