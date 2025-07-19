@@ -6,7 +6,7 @@
 
 ## High Level Research Interests
 **Offline RL**, **Data-Efficient Learning**, **Continual Learning**, **Online Learning**, **Model-based RL**  
-Agent that can Learn, Change, Make Decisions, Invent New Ideas By Itself  
+Sample-efficient and risk-aware decision-making for stochastic dynamical systems using RL
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
