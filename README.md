@@ -5,7 +5,7 @@
 - **Working on Robot Learning**
 
 ## High Level Research Interests
-**Offline RL**, **Data-Efficient Learning**, **Continual Learning**, **Model-based RL**  
+**Offline RL**, **Robust RL**, **Data-Efficient Learning**, **Continual Learning**, **Model-based RL**  
 Sample-efficient and risk-aware decision-making for stochastic dynamical systems using RL
 
 ## Resume
