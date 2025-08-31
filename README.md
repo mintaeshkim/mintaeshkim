@@ -2,7 +2,7 @@
 
 ## Current State
 - **Ph.D. Student in Robotics and AI at Hybrid Robotics Lab, BAIR, UC Berkeley**
-- **Working on Robot Learning**
+- **Working on Reinforcement Learning**
 
 ## High Level Research Interests
 **Offline RL**, **Robust RL**, **Data-Efficient Learning**, **Continual Learning**, **Model-based RL**  
