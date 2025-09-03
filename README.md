@@ -5,7 +5,7 @@
 - **Working on Reinforcement Learning**
 
 ## High Level Research Interests
-**Offline RL**, **Robust RL**, **Data-Efficient Learning**, **Continual Learning**, **Model-based RL**  
+**Robust RL**, **Offline RL**, **Data-Efficient Learning**, **Model-based RL**  
 Sample-efficient and risk-aware decision-making for stochastic dynamical systems using RL
 
 ## Resume
