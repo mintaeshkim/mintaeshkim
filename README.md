@@ -1,7 +1,7 @@
 # Mintæ Kim
 
 ## Current State
-- **Ph.D. Student in Robotics and AI at Hybrid Robotics Lab, BAIR, UC Berkeley**
+- **Ph.D. Student in AI & Robotics at Hybrid Robotics Lab, BAIR, UC Berkeley**
 - **Working on Reinforcement Learning**
 
 ## High Level Research Interests
