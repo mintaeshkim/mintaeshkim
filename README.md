@@ -13,3 +13,6 @@ Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
 
 ## Website
 Here is my [Website](https://sites.google.com/view/mintae-kim)
+
+## Virtue
+Es irrt der Mensch, solang' er strebt.
