@@ -5,8 +5,7 @@
 - **Working on Reinforcement Learning**
 
 ## High Level Research Interests
-**Robust RL**, **Offline RL**, **Data-Efficient Learning**, **Model-based RL**  
-Sample-efficient and risk-aware decision-making for stochastic dynamical systems using RL
+**Real-World Learning**, **Robust Learning**, **Data-Efficient Learning**
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
