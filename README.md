@@ -5,7 +5,7 @@
 - **Working on Reinforcement Learning**
 
 ## High Level Research Interests
-**Real-World Learning**, **Robust Learning**, **Data-Efficient Learning**
+**Real-World Learning**, **Robust and Safe Learning**, **Data-Efficient Learning**
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
