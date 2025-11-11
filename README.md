@@ -12,3 +12,4 @@ Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
 
 ## Virtue
 Es irrt der Mensch, solang' er strebt.
+Allegro Ma Non Tanto.
