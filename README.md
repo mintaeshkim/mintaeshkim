@@ -5,7 +5,7 @@
 - **Working on Reinforcement Learning**
 
 ## High Level Research Interests
-**Self-Supervised Learning**, **Robust and Safe Learning**, **Data-Efficient Learning**
+**Self-Supervised RL**, **Robust and Safe RL**, **Data-Efficient RL**
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
