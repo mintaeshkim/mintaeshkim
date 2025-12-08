@@ -5,7 +5,8 @@
 - **Working on Reinforcement Learning**
 
 ## High Level Research Interests
-**Self-Supervised RL**, **Robust and Safe RL**, **Data-Efficient RL**
+**Scalable RL**, **Self-Supervised RL**, **Robust and Safe RL**, **Data-Efficient RL**  
+*Can agent performance almost surely monotone increase using any data stream?*
 
 ## Resume
 Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
