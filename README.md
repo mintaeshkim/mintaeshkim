@@ -10,10 +10,3 @@
 *Can agent performance almost surely monotone increase using any data stream?*
 ### Low-Level
 **Offline RL**, **Off2On RL**, **Self/Unsupervised RL**, **Dynamical Systems**
-
-## Resume
-Here is my [Resume](./Resume_Mintæ_Kim.pdf) (Will be updated soon)
-
-## Virtue
-Es irrt der Mensch, solang' er strebt.  
-Allegro Ma Non Tanto.
