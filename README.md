@@ -9,4 +9,4 @@
 **Scalable RL**, **Skill Discovery and Search**, **Robust and Safe RL**, **Data-Efficient RL**  
 *Can agent performance almost surely monotone increase using any data stream?*
 ### Low-Level
-**Offline RL**, **Off2On RL**, **Self/Unsupervised RL**, **Dynamical Systems**
+**Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Self/Unsupervised RL**, **Dynamical Systems**
