@@ -2,7 +2,7 @@
 
 ## Current State
 - **Ph.D. Student in Machine Learning and Control at Hybrid Robotics Lab, BAIR, UC Berkeley**
-- **Working on Reinforcement Learning and Stochastic Optimal Control**
+- **Working on Reinforcement Learning and Stochastic Control**
 
 ## Research Interests
 ### High-Level
