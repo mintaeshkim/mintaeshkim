@@ -9,4 +9,4 @@
 **Robust and Safe RL**, **Stochastic Control**, **Data-Efficient RL**, **Scalable RL**, **Skill Discovery and Search**  
 *Can agent performance monotone increase using any data stream a.s.?*
 ### Low-Level
-**Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Self/Unsupervised RL**, **Stochastic Control for Finance**, **Dynamical Systems**
+**Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Self/Unsupervised RL**, **Stochastic Control for Finance**
