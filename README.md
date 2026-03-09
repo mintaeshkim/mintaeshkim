@@ -1,4 +1,4 @@
-# Mintæ Kim
+# Mintae Kim
 
 ## Current State
 - **Ph.D. Student in Machine Learning and Control at Hybrid Robotics Lab, BAIR, UC Berkeley**
