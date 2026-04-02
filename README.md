@@ -6,7 +6,7 @@
 
 ## Research Interests
 ### High-Level
-**Robust and Safe RL**, **Stochastic Control**, **Data-Efficient RL**  
+**Non-stationary Dynamical Systems Control**, **Robust and Safe RL**, **Stochastic Control**, **Data-Efficient RL**  
 - Can agent performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 - Can agent(s) *create and discover alpha* in the market?
 ### Low-Level
