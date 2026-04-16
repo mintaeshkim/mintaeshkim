@@ -6,9 +6,9 @@
 
 ## Research Interests
 ### High-Level
-**Safe and Robust RL**, **Continual RL**,  **Stochastic Control**, **Data-Efficient RL**  
+**Safe and Robust RL**, **Continual RL**,  **Stochastic Control**, **Data-Efficient RL**, **Optimization**  
 - How can agents achieve *safety, robustness, stability, sample-efficiency, and adaptation* under *non-stationary dynamics*?
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
-- Can agents *create and discover alpha* in the market?
+- Can agents *create and/or discover alpha* in the market?
 ### Low-Level
-**Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Stochastic Control for Finance**, **Deep Learning for Dynamical Systems (NDEs, NOs)**
+**Recoverable RL**, **World Models**, **Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Stochastic Control for Finance**, **Deep Learning for Dynamical Systems**
