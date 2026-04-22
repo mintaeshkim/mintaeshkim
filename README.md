@@ -7,7 +7,8 @@
 ## Research Interests
 ### High-Level
 **Safe and Robust RL**, **Stochastic Control**, **Data-Efficient RL**, **Optimization**  
-- How can agents achieve *safety, robustness, stability, sample-efficiency, and adaptation* under *non-stationary dynamics*?
+- What is intelligence?
+- How can agents achieve *safety, robustness, stability, sample-efficiency, and continual learning* under *non-stationary dynamics*?
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 - Can agents *create and/or discover alpha* in the market?
 ### Low-Level
