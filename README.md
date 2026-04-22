@@ -6,10 +6,10 @@
 
 ## Research Interests
 ### High-Level
-**Safe and Robust RL**, **Stochastic Control**, **Data-Efficient RL**, **Optimization**  
+**Safe and Robust RL**, **Scalable RL**, **Stochastic Control**, **Optimization**  
 - What is intelligence?
 - How can agents achieve *safety, robustness, stability, sample-efficiency, and continual learning* under *non-stationary dynamics*?
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 
 ### Low-Level
-**Safe Q-Learning**, **Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Stochastic Control with Trajectory Regularization**, **World Models**, **Deep Learning for Dynamical Systems**
+**Self-Supervised RL**, **Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Stochastic Control with Trajectory Regularization**, **World Models**, **Deep Learning for Dynamical Systems**
