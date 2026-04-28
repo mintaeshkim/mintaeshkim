@@ -8,7 +8,7 @@
 ### High-Level
 **Safe and Robust RL**, **Scalable RL**, **Stochastic Control**, **Optimization**  
 - What is intelligence?
-- How can agents achieve *safety, robustness, stability, sample-efficiency, and continual learning* under *non-stationary dynamics*?
+- How can agents achieve *safety, robustness, stability, efficiency, and continual learning*?
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 
 ### Low-Level
