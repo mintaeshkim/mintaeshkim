@@ -12,4 +12,4 @@
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 
 ### Low-Level (Continually updated)
-**Self-Supervised RL**, **Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Stochastic Control with Trajectory Regularization**, **World Models**, **Deep Learning for Dynamical Systems**
+**Offline RL**, **Off2On RL**, **Off-Policy Q-Learning**, **Stochastic Control**, **World Models**, **Deep Learning for Dynamical Systems**, **Self-Supervised RL**
