@@ -12,4 +12,4 @@
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 
 ### Low-Level (Continually updated)
-**Reasoning**, **World Models**, **Offline RL**, **Off2On RL**, **Off-Policy RL**, **Stochastic Control**
+**World Models**, **Offline RL**, **Off2On RL**, **Off-Policy RL**, **Stochastic Control**, **Reasoning**
