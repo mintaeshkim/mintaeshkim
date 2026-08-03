@@ -6,7 +6,7 @@
 
 ## Research Interests
 ### High-Level
-**Decision-Centric World Models**, **Safe and Robust RL**, **Scalable RL**, **LLM Reasoning**
+**Decision-Centric World Models**, **Safe and Robust RL**, **Scalable RL**
 - What is intelligence?
 - How can agents achieve *safety, robustness, stability, efficiency, and continual learning*?
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
