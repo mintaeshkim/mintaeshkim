@@ -2,7 +2,7 @@
 
 ## Current State
 - **Ph.D. Student in Mechanical Engineering at Hybrid Robotics Lab, BAIR, UC Berkeley**
-- **Working on Reinforcement Learning, World Models, and Reasoning**
+- **Working on Reinforcement Learning and World Models**
 
 ## Research Interests
 ### High-Level
