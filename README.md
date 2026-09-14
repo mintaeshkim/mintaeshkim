@@ -1,7 +1,7 @@
 # Mintae Kim
 
 ## Current State
-- **Ph.D. Student in Mechanical Engineering at Hybrid Robotics Lab, BAIR, UC Berkeley**
+- **Ph.D. Candidate in Mechanical Engineering at Hybrid Robotics Lab, BAIR, UC Berkeley**
 - **Working on Reinforcement Learning and World Models**
 
 ## Research Interests
