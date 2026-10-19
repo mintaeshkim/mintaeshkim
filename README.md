@@ -12,4 +12,4 @@
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 
 ### Low-Level (Continually updated)
-**World Action Models**, **World Models**, **Offline RL**, **Off2On RL**
+**World Action Models**, **VLA Post-training** **World Models**, **Offline RL**, **Off2On RL**
