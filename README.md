@@ -2,7 +2,7 @@
 
 ## Current State
 - **Ph.D. Candidate in Mechanical Engineering at Hybrid Robotics Lab, BAIR, UC Berkeley**
-- **Working on Reinforcement Learning and World Models**
+- **Working on Humanoids, Reinforcement Learning, World Models, and VLA**
 
 ## Research Interests
 ### High-Level
@@ -12,4 +12,4 @@
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
 
 ### Low-Level (Continually updated)
-**World Action Models**, **VLA Post-training**, **World Models**, **Offline RL**, **Off2On RL**
+**Humanoid Locomanipulation**, **World Action Models**, **VLA Post-training**, **Offline GCRL**
