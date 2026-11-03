@@ -5,11 +5,7 @@
 - **Working on Humanoids, Reinforcement Learning, World Models, and VLA**
 
 ## Research Interests
-### High-Level
-**Decision-Centric World Models**, **Safe and Robust RL**, **Scalable RL**
+**Humanoid Locomanipulation**, **World Action Models**, **VLA Post-training**, **Offline GCRL**
 - What is intelligence?
 - How can agents achieve *safety, robustness, stability, efficiency, and continual learning*?
 - Can agents performance a.s. monotone increase using *any data stream*? (= Is RL scalable?)
-
-### Low-Level (Continually updated)
-**Humanoid Locomanipulation**, **World Action Models**, **VLA Post-training**, **Offline GCRL**
